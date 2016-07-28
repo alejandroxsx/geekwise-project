@@ -1,0 +1,54 @@
+/*=====GLOBAL STYLES=======*/
+
+@import url(https://fonts.googleapis.com/css?family=Courgette|Rambla:700,400);
+
+/*font-family: 'Courgette', cursive;*/
+/*font-family: 'Rambla', sans-serif;*/
+
+html, body {
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    
+}
+
+body {
+    background-color:#647c95;
+    font-family:'Rambla', sans-serif;
+    font-size:18px;
+}
+
+h1, h2, h3{
+    margin:0px;
+    padding:0px;
+    font-family:'courgette', cursive;
+    
+    
+}
+
+p {
+    margin:15px 0px;
+    
+}
+
+b, strong {
+    color:#000;
+}
+
+a:hover{
+    color:#000;
+}
+
+
+
+a {
+    color:#fff;
+    text-decoration:none;
+}
+
+
+.mainWidth{
+    width:1200px;
+}
+/*HEADER STYLES
